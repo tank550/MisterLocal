@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MisterLocal</string>
+    <string-array name="my_string_array">
+        <item>Element 1</item>
+        <item>Element 2</item>
+        <item>Element 3</item>
+        <!-- Ajoutez autant d'éléments que nécessaire -->
+    </string-array>
+
+</resources>
