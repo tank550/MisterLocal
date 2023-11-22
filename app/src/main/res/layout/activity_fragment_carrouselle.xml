@@ -3,7 +3,7 @@
     android:layout_height="match_parent"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
-    android:background="@color/white">
+    android:background="#D3D3D3">
 
 
     <TextView
@@ -22,13 +22,12 @@
         android:layout_height="2in"
         android:gravity="center"
         android:layout_marginTop="30dp"
-        android:layout_weight="5"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp">
 
         <ImageView
-            android:layout_width=".65in"
-            android:layout_height=".65in"
+            android:layout_width=".45in"
+            android:layout_height=".45in"
             android:id="@+id/image_carrous"/>
 
     </LinearLayout>

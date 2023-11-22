@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">MisterLocal</string>
     <string-array name="my_string_array">
-        <item>Element 1</item>
-        <item>Element 2</item>
-        <item>Element 3</item>
+        <item>An intuitive, easy-to-use interface: The application should be easy to understand and use, even for people who are not accustomed to digital technologies. The interface is clear and concise, with easy-to-find menus and options.</item>
+        <item>A wide choice of services and activities: The application offers a wide choice of services and activities to meet the needs of all users. Services can include catering, transportation and leisure. Activities can include guided tours, courses, events and more.</item>
+        <item>A reliable and secure booking system: The booking system is reliable and secure, to ensure that users can make their bookings in complete confidence. The system must be easy to use and allow users to track the status of their reservations.</item>
         <!-- Ajoutez autant d'éléments que nécessaire -->
     </string-array>
 
